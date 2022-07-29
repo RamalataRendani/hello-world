@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 color="orange">New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1 color="orange">New user Register for DevOps Learning class</h1>
+    <p bgcolor="blue">Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -33,8 +33,7 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h1>Enjoy</h1>
-   <h3>bye</h3>
-   <p>build  and deploy</p>
+
 
   
 </form>
